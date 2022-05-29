@@ -7,6 +7,23 @@
 	list-style: none;
 	scroll-behavior: smooth;
 }
+
+.pb {
+    background: url("img") center no-repeat;
+    background-size: cover;
+	background-color: black;
+}
+.head1 {
+    color: rgb(255, 255, 255);
+     font-size: 1.7rem;
+     font-family: 'Poppins', sans-serif;
+     text-transform: uppercase;
+     font-weight: 900;
+     letter-spacing: .5rem;
+     background-color: #000;
+ }
+
+
 :root{
 	--bg-color: #fff;
 	--text-color: #221314;
